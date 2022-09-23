@@ -37,11 +37,11 @@ features                                  :
 
   - title                                 : Seuraa sähkönhintaa ja säästä
     description                           : Tällä sovelluksella pystyt reaaliajassa seuraamaan sähkön pörssihintaa ja ohjaamaan omaa kulutustasi. Näin saat mahdollisia säästöjä sekä autat keskittämään sähkönkulutusta tunneille jolloin sähköä on riittävästi tarjolla.
-    fontawesome_icon_name                 : sack-dollar
+    fontawesome_icon_name                 : mobile
     
   - title                                 : Widgetti näyttää hinnan helposti
     description                           : Koti-valikkoon lisättävä Widgetti tekee sähkön hinnan seuraamisesta helppoa eikä itse sovellusta tarvitse edes avata.
-    fontawesome_icon_name                 : gear
+    fontawesome_icon_name                 : magic
 
   - title                                 : Näe tulevaisuuteen
     description                           : Sovellus päivittää sähkön tuntihinnat seuraavalta päivältä edellisen päivän iltapäivän aikana. Näin voit paremmin varautua sähkön hinnan muutoksiin.
