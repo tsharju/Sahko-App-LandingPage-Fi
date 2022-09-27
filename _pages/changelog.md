@@ -15,9 +15,9 @@ Seuraa sähkön hintakehitystä helppokäyttöisellä sovelluksella. Kyseessä o
 
 <br>
 
-## **Versio 1.1 (tulossa)**
+## **Versio 1.1 (julkaistu 27.9.2022)**
 
 #### Uutta
-- Koti-valikkoon lisättä Widgetti joka helpottaa entisestään sähkön hinnan seuraamista.
+- Koti-valikkoon lisättävä Widgetti joka helpottaa entisestään sähkön hinnan seuraamista.
 
 <br>
